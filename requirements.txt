@@ -7,7 +7,7 @@ click==6.7
 colorama==0.3.7
 constantly==15.1.0
 cryptography==2.1.4
-Django==1.11.20
+Django==2.2.24
 enum34==1.1.6
 gyp==0.1
 html5lib==0.999999999
