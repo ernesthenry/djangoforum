@@ -31,7 +31,7 @@ scour==0.36
 service-identity==16.0.0
 six==1.11.0
 torbrowser-launcher==0.2.9
-Twisted==17.9.0
+Twisted==22.4.0
 txsocksx==0.0.0
 vboxapi==1.0
 virtualenv==16.5.0
