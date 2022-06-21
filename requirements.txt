@@ -16,7 +16,7 @@ idna==2.6
 incremental==16.10.1
 ipaddress==1.0.17
 lxml==4.2.1
-numpy==1.13.3
+numpy==1.22.0
 PAM==0.4.2
 Parsley==1.2
 psutil==5.4.2
